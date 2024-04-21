@@ -1,2 +1,2 @@
 # Titanic-Survival-Prediction
-Project using Decision Trees to predict whether a passenger survived the sinking of the Titanic or not.
+Project evaluating Decision Trees and Random Forests to determine which one fares better in predicting whether a passenger would survive the sinking of the Titanic or not.
